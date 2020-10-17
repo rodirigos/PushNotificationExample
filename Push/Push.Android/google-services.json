@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746796300974",
+    "firebase_url": "https://labtapushnotification.firebaseio.com",
+    "project_id": "labtapushnotification",
+    "storage_bucket": "labtapushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746796300974:android:d43efabe057106a4360b3f",
+        "android_client_info": {
+          "package_name": "com.labta.labtapush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746796300974-v67oidoh0jgjmm0tqducobp1tk18frrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBavLIXdokH7wAqx2ESWV0qSBh_3IfMYyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746796300974-v67oidoh0jgjmm0tqducobp1tk18frrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
